@@ -1,2 +1,2 @@
 # Allfiles
-posting of all files will be done here
+Posting of all files will be done here
